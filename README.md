@@ -1,3 +1,7 @@
 # virtualCell
 
-# testing git linkage
+# Team Members
+
+- Cole Lusk
+- Collin Wood
+- Eli Kurtz
